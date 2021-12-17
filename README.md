@@ -1,5 +1,9 @@
-# Reddit_Hot_posts_ETL
+# AWS Glue POC
 This repository is built to host the code for AWS Glue POC to built a pipeline that fetches data from Reddit API.
+
+# AWS Glue - How it works:   
+![image](https://user-images.githubusercontent.com/64266006/146553765-87b4ff35-0f0b-42a0-94bc-0be1e5264927.png)
+
 # Requirement:
 Build an ETL pipeline that fetches top 100 hot posts from API (reddit) on an hourly basis and store the required fields in a DB after transformations applied whereever needed.
 
