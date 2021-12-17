@@ -1,6 +1,5 @@
 # Reddit_Hot_posts_ETL
-This repository is built to host the code scripted for Pelago coding challenge.
-
+This repository is built to host the code for AWS Glue POC to built a pipeline that fetches data from Reddit API.
 # Requirement:
 Build an ETL pipeline that fetches top 100 hot posts from API (reddit) on an hourly basis and store the required fields in a DB after transformations applied whereever needed.
 
